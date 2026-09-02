@@ -25,6 +25,8 @@ User is given an option to choose a length of a word and a criteria i.e animal k
 
 ## Setup
 
+**Requirements:** Java Development Kit (JDK) 8 or higher.
+
 To run this game locally:
 
 1. Clone the repository:
@@ -35,6 +37,19 @@ To run this game locally:
    ```bash
    cd mini_word_guessing_game
    ```
+
+### Using the command line
+
+```bash
+# Navigate to the project root
+cd mini_word_guessing_game
+
+# Compile all source files into the bin/ directory
+javac -d bin src/main/Main.java
+
+# Run the program
+java -cp bin Main
+```   
 
 ## Contributing
 
