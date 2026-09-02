@@ -1,4 +1,4 @@
-# mini_word_guessing_game
+# Mini Word Guessing Game
 
 ## Overview
 
